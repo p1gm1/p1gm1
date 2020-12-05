@@ -13,8 +13,8 @@ At the moment have the following certifications:
 * [Structuring Machine Learning Projects, deeplearning.ia](https://coursera.org/share/a0ed22fc39918e37ea32f9aa0dc718ee)
 * [Convolutional Neural Networks, deeplearning.ia](https://coursera.org/share/a0ed22fc39918e37ea32f9aa0dc718ee)
 * [Machine learning, Stanford online](https://coursera.org/share/93493127a6de8fa986309e2d1ba66311)
-* Artificial Intelligence and Machine Learning Track, Platzi
-* Backend development with python and Django, PLatzi
+* [Artificial Intelligence and Machine Learning Track, Platzi](https://platzi.com/p/aperdomo1988/ruta/5-ai/diploma/detalle/)
+* [Backend development with python and Django, PLatzi](https://platzi.com/p/aperdomo1988/ruta/3-backend-python/diploma/detalle/)
 
 #### 🔭 I’m currently working on
 
