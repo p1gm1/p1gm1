@@ -18,7 +18,7 @@ At the moment have the following certifications:
 
 #### 🔭 I’m currently working on
 
-Currently working with DroneSky as an Machine Learning engineer setting several app's of computer vision 
+Currently working with DroneSky as a Machine Learning engineer setting several app's of computer vision 
 to assist in presicion agriculture of coffee crops in Colombia. Also working on the following
 open source projects:
 
