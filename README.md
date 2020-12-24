@@ -12,6 +12,7 @@ At the moment have the following certifications:
 * [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization, deeplearning.ia](https://coursera.org/share/ef278dc9fa2ca34892b157d4a617a126)
 * [Structuring Machine Learning Projects, deeplearning.ia](https://coursera.org/share/a0ed22fc39918e37ea32f9aa0dc718ee)
 * [Convolutional Neural Networks, deeplearning.ia](https://coursera.org/share/a0ed22fc39918e37ea32f9aa0dc718ee)
+* [Deep learning specialization, depplearning.ia](https://coursera.org/share/efe61bb0b8d9b77d8e4c817e314c78df)
 * [Machine learning, Stanford online](https://coursera.org/share/93493127a6de8fa986309e2d1ba66311)
 * [Artificial Intelligence and Machine Learning Track, Platzi](https://platzi.com/p/aperdomo1988/ruta/5-ai/diploma/detalle/)
 * [Backend development with python and Django, PLatzi](https://platzi.com/p/aperdomo1988/ruta/3-backend-python/diploma/detalle/)
@@ -35,7 +36,7 @@ My main focus has been Computer vision
 
 #### 🌱 I’m currently learning 
 
-* Deep-learning specialization on Coursera.
+* Deep leanring with pytorch, OpenCv 
 
 #### 📫 How to reach me: **alperdomo1988@gmail.com**
 
