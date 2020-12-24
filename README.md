@@ -30,6 +30,9 @@ open source projects:
 In this page you can check all my public tutorials and my open-source projects.
 My main focus has been Computer vision
 
+* [Sky-eye repo v.1.00](https://github.com/p1gm1/Sky-eye_desktop)
+* [powerplant repo v1.00](https://github.com/p1gm1/powerplant)
+
 #### 🌱 I’m currently learning 
 
 * Deep-learning specialization on Coursera.
