@@ -15,6 +15,7 @@ At the moment have the following certifications:
 * [Deep learning specialization, depplearning.ia](https://coursera.org/share/efe61bb0b8d9b77d8e4c817e314c78df)
 * [Machine learning, Stanford online](https://coursera.org/share/93493127a6de8fa986309e2d1ba66311)
 * [Artificial Intelligence and Machine Learning Track, Platzi](https://platzi.com/p/aperdomo1988/ruta/5-ai/diploma/detalle/)
+* [Computer vision applications - python](https://courses.opencv.org/certificates/7372156b9c644e008b173447d23b27f7)
 * [Backend development with python and Django, PLatzi](https://platzi.com/p/aperdomo1988/ruta/3-backend-python/diploma/detalle/)
 
 #### 🔭 I’m currently working on
@@ -33,6 +34,7 @@ My main focus has been Computer vision
 
 * [Sky-eye repo v.1.00](https://github.com/p1gm1/Sky-eye_desktop)
 * [powerplant repo v1.00](https://github.com/p1gm1/powerplant)
+* [MaintenaceAid repo v1.00](https://github.com/p1gm1/MaintenaceAid)
 
 #### 🌱 I’m currently learning 
 
