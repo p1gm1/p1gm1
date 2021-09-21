@@ -25,7 +25,6 @@ to assist in presicion agriculture of coffee crops in Colombia. Also working on 
 open source projects:
 
 * Sky-eye, a desktop and web app for counting crops of oil-palm, guava and passion-fruit.
-* Thermoapp, a web app to organize termographic photos and printing it's reports online.
 
 #### 🤔 What can you find here?
 
@@ -35,10 +34,6 @@ My main focus has been Computer vision
 * [Sky-eye repo v.1.00](https://github.com/p1gm1/Sky-eye_desktop)
 * [powerplant repo v1.00](https://github.com/p1gm1/powerplant)
 * [MaintenaceAid repo v1.00](https://github.com/p1gm1/MaintenaceAid)
-
-#### 🌱 I’m currently learning 
-
-* Deep leanring with pytorch, OpenCv 
 
 #### 📫 How to reach me: **alperdomo1988@gmail.com**
 
