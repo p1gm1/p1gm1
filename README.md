@@ -3,7 +3,7 @@
 
 #### 💬 About me
 
-I'm a Mechanical engineer, that after working six years in the oil and gas industry saw a better future on machine learning and technology, 
+I'm a Mechanical engineer, after working six years in the oil and gas industry I saw a better future on machine learning and technology, 
 and became the furtive p1gm1. Living my days now trying to make a brighter world for all.
 
 At the moment have the following certifications:
@@ -20,11 +20,14 @@ At the moment have the following certifications:
 
 #### 🔭 I’m currently working on
 
-Currently working with DroneSky as a Machine Learning engineer setting several app's of computer vision 
-to assist in presicion agriculture of coffee crops in Colombia. Also working on the following
+Currently working with Emissary as a consultant developer. Also working on the following
 open source projects:
 
 * Sky-eye, a desktop and web app for counting crops of oil-palm, guava and passion-fruit.
+
+#### 🌱 I’m currently learning
+
+Natural Process Language with attention models.
 
 #### 🤔 What can you find here?
 
