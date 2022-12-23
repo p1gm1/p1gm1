@@ -17,7 +17,7 @@ At the moment have the following certifications:
 * [Artificial Intelligence and Machine Learning Track, Platzi](https://platzi.com/p/aperdomo1988/ruta/5-ai/diploma/detalle/)
 * [Computer vision applications - python](https://courses.opencv.org/certificates/7372156b9c644e008b173447d23b27f7)
 * [Backend development with python and Django, PLatzi](https://platzi.com/p/aperdomo1988/ruta/3-backend-python/diploma/detalle/)
-* [NLP Processing Specialization, deeplearning.ia]
+* [NLP Processing Specialization, deeplearning.ia](https://coursera.org/share/ef5e2194ad27bbdf5e7364f7303a5b3f)
 
 #### 🔭 I’m currently working on
 
