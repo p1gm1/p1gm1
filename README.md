@@ -17,6 +17,7 @@ At the moment have the following certifications:
 * [Artificial Intelligence and Machine Learning Track, Platzi](https://platzi.com/p/aperdomo1988/ruta/5-ai/diploma/detalle/)
 * [Computer vision applications - python](https://courses.opencv.org/certificates/7372156b9c644e008b173447d23b27f7)
 * [Backend development with python and Django, PLatzi](https://platzi.com/p/aperdomo1988/ruta/3-backend-python/diploma/detalle/)
+* [NLP Processing Specialization, deeplearning.ia]
 
 #### 🔭 I’m currently working on
 
@@ -27,7 +28,7 @@ open source projects:
 
 #### 🌱 I’m currently learning
 
-Natural Process Language with attention models.
+MLOps, Machine Learning Engineering for Production
 
 #### 🤔 What can you find here?
 
