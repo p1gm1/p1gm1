@@ -19,13 +19,6 @@ At the moment have the following certifications:
 * [Backend development with python and Django, PLatzi](https://platzi.com/p/aperdomo1988/ruta/3-backend-python/diploma/detalle/)
 * [NLP Processing Specialization, deeplearning.ia](https://coursera.org/share/ef5e2194ad27bbdf5e7364f7303a5b3f)
 
-#### 🔭 I’m currently working on
-
-Currently working as a consultant developer. Also working on the following
-open source projects:
-
-* Sky-eye, a desktop and web app for counting crops of oil-palm, guava and passion-fruit.
-
 #### 🌱 I’m currently learning
 
 MLOps, Machine Learning Engineering for Production
