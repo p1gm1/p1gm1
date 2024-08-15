@@ -21,7 +21,7 @@ At the moment have the following certifications:
 
 #### 🔭 I’m currently working on
 
-Currently working with Emissary as a consultant developer. Also working on the following
+Currently working as a consultant developer. Also working on the following
 open source projects:
 
 * Sky-eye, a desktop and web app for counting crops of oil-palm, guava and passion-fruit.
